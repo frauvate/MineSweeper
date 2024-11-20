@@ -1,0 +1,11 @@
+C:\Users\esmaa\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\esmaa\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\esmaa\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.CreateField.resources
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.MainWindow.resources
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\esmaa\Minesweeper\Minesweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
